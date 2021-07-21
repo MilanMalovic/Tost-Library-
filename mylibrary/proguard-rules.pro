@@ -83,3 +83,7 @@
 # -keep public class mypackage.MyClass
 # -keep public interface mypackage.MyInterface
 # -keep public class * implements mypackage.MyInterface
+
+-injars  in.jar
+-outjars out.jar
+-libraryjars  /lib/rt.jar
