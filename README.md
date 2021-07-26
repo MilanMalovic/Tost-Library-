@@ -26,4 +26,4 @@ Configuration
 This step is optional, but if you want you can configure some Toasty parameters. Place this anywhere in your app:
 
 
-        ToastMessage().s(this,"Hello World")
+        ToastMessage().create(this,"Hello World")
