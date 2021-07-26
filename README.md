@@ -1,3 +1,7 @@
+
+[![](https://jitpack.io/v/MilanMalovic/Tost-Library-.svg)](https://jitpack.io/#MilanMalovic/Tost-Library-)
+
+
 Add this in your root build.gradle file (not your module build.gradle file):
 
 ```
