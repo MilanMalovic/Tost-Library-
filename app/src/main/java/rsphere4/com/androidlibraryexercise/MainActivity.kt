@@ -10,7 +10,7 @@ class MainActivity:AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
 
-        ToastMessage().s(this,"Hello Milan")
+        ToastMessage().s(this,"Hello World")
 
     }
 }
